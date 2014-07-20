@@ -1,0 +1,8 @@
+{
+    "name": "socket.io",
+    "description": "socket.io component",
+    "local": [],
+    "scripts": ["socket.io.js"],
+    "templates": [],
+    "main": "socket.io.js"
+}
